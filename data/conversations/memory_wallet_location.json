@@ -1,0 +1,22 @@
+{
+  "id": "memory_wallet_location",
+  "title": "Memory: wallet_location",
+  "created_at": "2025-05-24T00:36:45.075496",
+  "updated_at": "2025-05-24T00:36:45.075497",
+  "metadata": {
+    "type": "memory"
+  },
+  "messages": [
+    {
+      "id": "3f8d8ce6-cfce-4f27-8919-95086f2c671a",
+      "role": "system",
+      "content": "MEMORY: wallet_location = on the kitchen table",
+      "timestamp": "2025-05-24T00:36:45.075481",
+      "metadata": {
+        "type": "memory",
+        "key": "wallet_location",
+        "context": null
+      }
+    }
+  ]
+}

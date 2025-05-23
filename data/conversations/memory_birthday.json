@@ -1,0 +1,22 @@
+{
+  "id": "memory_birthday",
+  "title": "Memory: birthday",
+  "created_at": "2025-05-24T00:36:45.076636",
+  "updated_at": "2025-05-24T00:36:45.076636",
+  "metadata": {
+    "type": "memory"
+  },
+  "messages": [
+    {
+      "id": "ca9b2c23-bdcd-4701-beb2-eaad01b0c8dc",
+      "role": "system",
+      "content": "MEMORY: birthday = June 19th, 2001",
+      "timestamp": "2025-05-24T00:36:45.076623",
+      "metadata": {
+        "type": "memory",
+        "key": "birthday",
+        "context": null
+      }
+    }
+  ]
+}

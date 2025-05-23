@@ -1,0 +1,22 @@
+{
+  "id": "memory_car_keys",
+  "title": "Memory: car_keys",
+  "created_at": "2025-05-24T00:36:45.075982",
+  "updated_at": "2025-05-24T00:36:45.075983",
+  "metadata": {
+    "type": "memory"
+  },
+  "messages": [
+    {
+      "id": "697ea4a1-3b59-456c-85a9-cfa75b1f5889",
+      "role": "system",
+      "content": "MEMORY: car_keys = hanging by the front door",
+      "timestamp": "2025-05-24T00:36:45.075965",
+      "metadata": {
+        "type": "memory",
+        "key": "car_keys",
+        "context": null
+      }
+    }
+  ]
+}
